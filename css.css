@@ -14,5 +14,5 @@ p {
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  color: white;
+  float: left;
 }
